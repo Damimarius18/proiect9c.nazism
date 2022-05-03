@@ -1,0 +1,114 @@
+@import url("https://fonts.googleapis.com/css2?family=Gentium+Book+Basic:ital@1&family=Open+Sans:wght@300&family=Poppins:ital,wght@1,100;1,500&display=swap");
+* {
+  margin: 10px;
+}
+body {
+  height: 100vmax;
+  width: fit-content;
+  font-family: "Open Sans", sans-serif;
+  overflow: scroll;
+  overflow-y: scroll;
+}
+h1 {
+  font-size: 60px;
+  position: relative;
+  left: 45%;
+}
+p {
+  font-size: 20px;
+}
+h3 {
+  font-size: 25px;
+  position: relative;
+  left: 48%;
+}
+th {
+  font-size: 22.5px;
+  position: relative;
+  right: 45%;
+}
+td {
+  font-size: 20px;
+}
+ul {
+  list-style-type: none;
+}
+li {
+  text-decoration: none;
+}
+iframe {
+  position: relative;
+  left: 20%;
+}
+.timp {
+  position: relative;
+  left: 50%;
+  font-weight: bold;
+}
+img {
+  width: 350px;
+  height: 300px;
+  object-fit: cover;
+}
+#clasy {
+  width: 1000px;
+  height: 800px;
+  object-fit: cover;
+}
+.stem {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+}
+#Hitler {
+  float: right;
+}
+table {
+  border-collapse: separate;
+  border-spacing: 0 15px;
+}
+td {
+  width: 150px;
+  text-align: center;
+  border: 1px solid black;
+  padding: 5px;
+}
+.sim {
+  width: 250px;
+  height: 200px;
+  object-fit: cover;
+}
+#hart {
+  float: left;
+}
+.antisem {
+  height: auto;
+}
+.tb {
+  width: auto;
+}
+.tr {
+  width: fit-content;
+  height: fit-content;
+}
+#Ss {
+  width: 200px;
+  height: 200px;
+  float: right;
+}
+.t2 {
+  width: 250px;
+  height: 200px;
+  object-fit: cover;
+}
+.tt {
+  width: 200px;
+  height: 200px;
+}
+.fin {
+  margin-right: 445px;
+  float: right;
+}
+#finl {
+  margin-left: 440px;
+}
